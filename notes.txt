@@ -1,0 +1,7 @@
+Viisauksia Tuomaksen suusta:
+
+If validation shit, add epochs. If that don't work, adjust learning rate.
+
+If time series = little data, stride with windowing
+If time series = many data, stride with time steps
+
